@@ -1,0 +1,23 @@
+
+.top{
+    background-color: beige;
+    width:1000px;
+    height:80px;
+}
+.title{    
+    font-size: 35px;
+    height:100%;    
+    float:left;
+    margin:10px
+}
+.menu{
+    font-size: 30px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
+.menu:hover{
+    background-color: aqua;
+    color:beige;
+    cursor:pointer;
+}
